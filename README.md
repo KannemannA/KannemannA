@@ -32,13 +32,13 @@
 
 - **Languages**:
     
-    [![Languages](https://skillicons.dev/icons?i=js,html,css,react,java,jwt,)
+    ![Languages](https://skillicons.dev/icons?i=js,html,css,react,java)
 
 <br>
 
 - **Cloud Hosting**:
 
-    [![Cloud](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+    ![Cloud](https://skillicons.dev/icons?i=aws)
     
 <br>
 
@@ -54,7 +54,7 @@
 
 - **Extras**:
 
-    [![Terminal](https://skillicons.dev/icons?i=bash)](https://git-scm.com/)  
+    ![Extras](https://skillicons.dev/icons?i=bash)  
 
 
 </p>
