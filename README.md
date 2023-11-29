@@ -80,7 +80,7 @@
 
 <br>
 
-<a href="mailto:alejokannemann@gmail.com" target="_blank">
+<a href="mailto:alejokannemann@gmail.com">
 <img src="https://img.shields.io/badge/gmail:  ALEJO KANNEMANN-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </div>
