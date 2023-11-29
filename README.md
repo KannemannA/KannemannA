@@ -58,14 +58,7 @@
 
 - **Softwares and Tools**:
 
-    ![SoftwareTools](https://skillicons.dev/icons?i=docker,figma,github,gitlab,idea,linux,nginx,postman,regex,vscode)
-
-<br>
-
-- **Extras**:
-
-    ![Extras](https://skillicons.dev/icons?i=bash)
-
+    ![SoftwareTools](https://skillicons.dev/icons?i=docker,figma,github,gitlab,idea,linux,nginx,postman,regex,vscode,bash)
 
 </p>
 
