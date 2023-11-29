@@ -32,26 +32,33 @@
 
 - **FrontEnd**:
 
-    ![FrontEnd](https://skillicons.dev/icons?i=html,css,js,react)
+    ![FrontEnd](https://skillicons.dev/icons?i=html,css,js,react,vite,sass,tailwind)
 
 <br>
 
 - **BackEnd**:
 
-    ![BackEnd](https://skillicons.dev/icons?i=java,hibernate)
+    ![BackEnd](https://skillicons.dev/icons?i=java,hibernate,maven,spring)
+
+<br>
+
+- **Database**:
+
+    ![Cloud](https://skillicons.dev/icons?i=mongodb,mysql)
     
+   
 <br>
 
 - **Cloud Hosting**:
 
-    ![Cloud](https://skillicons.dev/icons?i=aws)
+    ![Cloud](https://skillicons.dev/icons?i=aws,planetscale,vercel)
     
 
 <br>
 
 - **Softwares and Tools**:
 
-    ![SoftwareTools](https://skillicons.dev/icons?i=docker,figma,github,gitlab,)
+    ![SoftwareTools](https://skillicons.dev/icons?i=docker,figma,github,gitlab,idea,linux,nginx,postman,regex,vscode)
 
 <br>
 
