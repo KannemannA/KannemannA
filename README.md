@@ -74,23 +74,25 @@
 <br>
 <div align='left'>
 
-<ul>
-
-<li>
 <a href="https://www.linkedin.com/in/alejo-kannemann-10b58b191/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Alejo Kannemann-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
 <a href="mailto:alejokannemann@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  ALEJO KANNEMANN-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-	
-</ul>
 </div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kannemanna&show_icons=true&locale=en&layout=compact" alt="Alejo Kannemann" /></p><br><br>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kannemanna&show_icons=true&locale=en" alt="Alejo Kannemann" /></p>
+<br>
+<br>
+---
 <br>
