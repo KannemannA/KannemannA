@@ -15,11 +15,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.somePath.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- Passionate about the world of Java Backend
+- implementing best practices in building APIs with notions of security, testing, endpoint documentation, SQL and NoSQL database and file management
+- Also with basic knowledge of the Frontend with ReactJS
+- Contact me, always willing to listen to proposals [my resume](https://flowcv.com/resume/4pkdg01bha)
 
 <br><br>
 
